@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution on frontendmentor.io]()
-- [Live preview]()
+- [Solution on frontendmentor.io](https://www.frontendmentor.io/solutions/base-apparel-coming-soon-page-vvgqzKrgaJ)
+- [Live preview](https://piwkoo.github.io/base-apparel-coming-soon-page/)
 
 ## My process
 
